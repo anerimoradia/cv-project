@@ -15,3 +15,8 @@ This repository contains my solution for the **Single-Page CV Project** for http
    ```bash
    git clone https://github.com/your-username/cv-project.git
 2. Open index.html in a browser or use VS Code with Live Server.
+
+
+## Solution
+
+Shareable Link: https://roadmap.sh/projects/single-page-cv/solutions?u=66c52a3b34a9226f385ab651

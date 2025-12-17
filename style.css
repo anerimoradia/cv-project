@@ -1,0 +1,71 @@
+/* Reset some defaults */
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Container */
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Header */
+header {
+  text-align: center;
+  background-color: #b0d2f4;
+  color: white;
+  padding: 1.5rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+header p {
+  margin: 0.5rem 0;
+}
+
+/* Sections */
+section {
+  margin-bottom: 2rem;
+}
+
+section h2 {
+  border-bottom: 2px solid #004080;
+  padding-bottom: 0.5rem;
+  color: #004080;
+}
+
+/* Lists */
+ul {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+}
+
+/* Experience articles */
+article h3 {
+  margin: 0.5rem 0;
+  color: #333;
+}
+
+article p {
+  font-style: italic;
+  color: #555;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 2rem;
+}

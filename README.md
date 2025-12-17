@@ -1,4 +1,4 @@
-This repository contains my solution for the **Single-Page CV Project** for [roadmap.sh]([https://roadmap.sh](https://roadmap.sh/projects/single-page-cv)).
+This repository contains my solution for the **Single-Page CV Project** for https://roadmap.sh/projects/single-page-cv
 
 ## Project Overview
 - Built using semantic HTML only
